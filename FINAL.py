@@ -144,6 +144,3 @@ def calendarAlgorithm(list1, list2, meetingLength):
         print("There are no compatible times.")
 
 calendarAlgorithm(["8:00-18:00", "9:00-10:00", "10:00-10:10", "11:00-13:00"], ["7:00-16:00", "9:00-10:00", "11:00-13:00", "14:00-14:30"], 30)
-#calendarAlgorithm(["8:00-18:00"], ["7:00-16:00"], 30)
-#calendarAlgorithm(["8:00-18:00", "9:00-10:00", "10:00-10:10", "11:00-13:00"], ["7:00-16:00", "9:00-10:00", "11:00-13:00", "14:00-14:30"], 600)
-#calendarAlgorithm([], [], 600)
